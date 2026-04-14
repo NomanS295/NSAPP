@@ -1,7 +1,7 @@
 # NSAPP
 Personal app to  find cheapest flights from toronto using google flights and kiwi.com (for now) with mullvad VPN  geo-switching
 
-vibecoded a locally-run AI-powered deal finder built for Toronto (YYZ) departures. 
+basically vibecoded a locally-run AI-powered deal finder built for Toronto (YYZ) departures. 
 
 ## Features
 - Searches Google Flights + Kiwi.com simultaneously
