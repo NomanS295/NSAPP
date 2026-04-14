@@ -61,11 +61,4 @@ Attempted integration via SerpApi (no Skyscanner engine available), Sky-Scrapper
 Google Flights + Kiwi.com as dual sources. Open to suggestions for a reliable Skyscanner 
 data source.
 
-## Roadmap
-- [ ] Cheapest destination finder ("where can I go for under $600?")
-- [ ] Price drop alerts
-- [ ] Toronto local deals scraper
-- [ ] Proper calendar date range picker
-- [ ] Home assistant integration (separate app)
-- [ ] News summarizer
-- [ ] Price tracker for products
+
